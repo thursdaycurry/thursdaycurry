@@ -15,7 +15,7 @@
 
   located_in : Seoul, South Korea,
   educations : "Bachelor's in Art",
-  tech_stacks : ["Javascript", "Node.js"],
+  tech_stacks : ["Javascript", "Node.js", "RDDMS", "Python"],
   currenly_learning: ["Python", "Database", "Computer Science theory"],
   fields_of_interests:
     [
@@ -24,8 +24,7 @@
       "UI/UX",
       "IOT",
     ],
-    
     Goal of this year : ["Build 3 private projects and 2 team projects", "Learn and do project with Arduino"],
-    hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+    hobbies: ["Art", "Design", "Books", "network-building"]
 }
 ```
