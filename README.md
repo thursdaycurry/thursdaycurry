@@ -7,7 +7,7 @@
   name : Heegu Yang,
   info : {
     ,email : thursdaycurry@gmail.com
-    ,tech blog : https://meir.tistory.com/
+    ,techblog : https://meir.tistory.com/
     ,linkedin : https://www.linkedin.com/in/heeguyang/
     ,resume(Korean)  : https://bit.ly/40rv12t
     ,resume(English) : https://bit.ly/3FGZ0eM
