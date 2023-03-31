@@ -24,7 +24,7 @@
       "UI/UX",
       "IOT",
     ],
-    Goal of this year : ["Build 3 private projects and 2 team projects", "Learn and do project with Arduino"],
+    goal of 2023 : ["Build 3 private projects and 2 team projects", "Learn and do project with Arduino"],
     hobbies: ["Art", "Design", "Books", "network-building"]
 }
 ```
