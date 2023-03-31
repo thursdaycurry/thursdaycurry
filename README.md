@@ -1,6 +1,6 @@
 ### Backend Developer with the heart of an artist
 
-👯 I’m currently looking for people who can work together.
+👯 I’m currently looking for people who can build sustainable future together.
 
 ```
 {
