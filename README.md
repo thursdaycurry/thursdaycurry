@@ -1,11 +1,12 @@
-### Hello, I am Heegu Yang, Backend Developer.
+### Hello, I am Backend Developer
 
+```
 resume(Korean)  : https://bit.ly/40rv12t
 resume(English) : https://bit.ly/3FGZ0eM
 
 tech blog : https://meir.tistory.com/
 linkedin : https://www.linkedin.com/in/heeguyang/
-
+```
 <!--
 **thursdaycurry/thursdaycurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
