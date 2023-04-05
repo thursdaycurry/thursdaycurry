@@ -14,12 +14,12 @@
   }
   located_in : Seoul, South Korea,
   educations : "Bachelor's in Art",
-  tech_stacks : ["Javascript", "Node.js", "RDDMS", "Python"],
+  tech_stacks : ["Javascript", "Node.js", "RDBMS", "Python"],
   fields_of_interests:
     [
       "Web Development",
       "Data Science",
-      "UI/UX",
+      "data Visualization",
       "IOT",
     ],
   currenly_learning: ["Python", "Database", "Computer Science theory"],
