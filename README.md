@@ -13,8 +13,8 @@
     ,resume(English) : https://bit.ly/3FGZ0eM
   }
   located_in : Seoul, South Korea,
-  educations : "Bachelor's in Art",
-  tech_stacks : ["Javascript", "Node.js", "RDBMS", "Python"],
+  education : "Bachelor's in Art",
+  workWith : ["Javascript", "Node.js", "Nest.js","Python", "Postgres", "Mysql", "MongoDB"],
   fields_of_interests:
     [
       "Web Development",
