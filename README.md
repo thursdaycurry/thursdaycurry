@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm a programmor or junior fullstack web developer specializing in Javascript.
 
 <!--
 **thursdaycurry/thursdaycurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
