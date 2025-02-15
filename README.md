@@ -4,7 +4,7 @@ Hi, I’m Heegu. Welcome to my web living room! I am a software engineer with a 
 
 Hallo, Ich heiße Heegu. Willkommen in meinem Web-Wohnzimmer. Ich arbeite als Softwareingenieur und habe eine große Leidenschaft für Informationstechnologie, Kunst und Design.
 
-contact
+Information
 - Email : thursdaycurry@gmail.com
 - Github : www.github.com/thursdaycurry
 - Linkedin : www.linkedin.com/in/heeguyang
