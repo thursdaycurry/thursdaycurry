@@ -3,3 +3,7 @@
 Hi, I’m Heegu. Welcome to my web living room! I am a software engineer with a specialization in web development. My passion lies in the intersection of information technology, art, and design.
 
 Hallo, Ich heiße Heegu. Willkommen in meinem Web-Wohnzimmer. Ich arbeite als Softwareingenieur und habe eine große Leidenschaft für Informationstechnologie, Kunst und Design.
+
+email : thursdaycurry@gmail.com
+github : www.github.com/thursdaycurry
+linkedin : www.linkedin.com/in/heeguyang
