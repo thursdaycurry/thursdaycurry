@@ -1,4 +1,4 @@
-I am a software engineer with a specialization in web development. My passion lies in the intersection of information technology, art, and design.
+I am a software engineer with a specialization in web development.
 
 Information
 - Email : thursdaycurry@gmail.com
