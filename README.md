@@ -1,8 +1,10 @@
-I am a software engineer with a specialization in web development.
+Hi, I'm Heegu. I am a software engineer with a specialization in web development. My passion lies in the intersection of information technology, art, and design.
 
-Information
-- Email : thursdaycurry@gmail.com
-- blog : https://medium.com/@thursdaycurry
-- Github : www.github.com/thursdaycurry
-- Linkedin : www.linkedin.com/in/heeguyang
+Hallo, Ich heiße Heegu. Ich arbeite als Softwareingenieur und habe eine große Leidenschaft für Informationstechnologie, Kunst und Design.
 
+Contact
+- homepage : heeguyang.net
+- email : thursdaycurry@gmail.com
+- github : github.com/thursdaycurry
+- linkedin : linkedin.com/in/heeguyang
+- medium : medium.com/@thursdaycurry
