@@ -1,8 +1,7 @@
-## Hi, I'm Heegu.
-I am a software engineer with a specialization in web development. My passion lies in the intersection of information technology, art, and design.
+## Software Engineer
+Hi, I'm Heegu. I am a software engineer with a specialization in web development. My passion lies in the intersection of information technology, art, and design.
 
-## Hallo, Ich heiße Heegu.
-Ich arbeite als Softwareingenieur und habe eine große Leidenschaft für Informationstechnologie, Kunst und Design.
+Hallo, Ich heiße Heegu. Ich arbeite als Softwareingenieur und habe eine große Leidenschaft für Informationstechnologie, Kunst und Design.
 
 ## Contact  
 - 🌐 [heeguyang.net](https://heeguyang.net)  
